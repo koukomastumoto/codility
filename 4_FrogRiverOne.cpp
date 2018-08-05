@@ -1,8 +1,4 @@
-// you can use includes, for example:
-// #include <algorithm>
-
-// you can write to stdout for debugging purposes, e.g.
-// cout << "this is a debug message" << endl;
+// https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/
 #include <iostream>
 #include <vector>
 using namespace std;
